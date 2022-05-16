@@ -1,5 +1,3 @@
-# grafana-docker
-
 # Download docker-compose for grafana
 git clone https://github.com/BinhPhuongIT/grafana-docker.git
 
